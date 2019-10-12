@@ -1,0 +1,6 @@
+{
+  "root": false,
+  "extends": [
+    "plugin:vue/essential"
+  ]
+}
